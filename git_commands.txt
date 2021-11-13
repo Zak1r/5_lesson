@@ -2,4 +2,9 @@
 2) git add . or git add название_файла_с_расширением
 3) git commit -m "massage"
 4) git remote add origin ссылка_на_репозиторий
-5) git push -u origin master (ветка)
+5) git push -u origin master (ветка) git push
+
+
+git add .
+git commit -m "massage"
+git push
