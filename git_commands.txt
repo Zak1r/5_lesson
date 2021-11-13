@@ -8,3 +8,8 @@
 git add .
 git commit -m "massage"
 git push
+
+
+git add . or git remove name.folder
+git commit -m "massage"
+git push
